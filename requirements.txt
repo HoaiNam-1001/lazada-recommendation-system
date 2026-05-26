@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+implicit
+matplotlib
+seaborn
+fake-useragent
+requests
+tqdm
+jupyter
